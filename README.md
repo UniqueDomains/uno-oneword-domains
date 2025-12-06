@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .UNO one-word domains still available to buy.
 
-This dataset contains 4,798 .UNO one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,795 .UNO one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.UNO one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=uno-oneword-domains&utm_content=description.top) (4,799) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.UNO one word domains]
 
 | Domain         | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | -------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.uno        | available | 70       | 38%    | 3      |           |         |         |
+| aaa.uno        | premium   | 70       | 38%    | 3      |           |         |         |
 | abactinal.uno  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.uno      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.uno  | available | 58       | 7%     | 9      |           |         |         |
@@ -44,7 +44,7 @@ If you want to search & filters the complete database of [.UNO one word domains]
 | abhorrent.uno  | available | 54       | 3%     | 9      |           |         |         |
 | abiding.uno    | available | 106      | 5%     | 7      |           |         |         |
 | abient.uno     | available | 54       | 1%     | 6      |           |         |         |
-| ability.uno    | available | 92       | 18%    | 7      |           |         |         |
+| ability.uno    | premium   | 92       | 18%    | 7      |           |         |         |
 | abit.uno       | available | 66       | 16%    | 5      |           |         |         |
 | abkhas.uno     | available | 68       | 1%     | 6      |           |         |         |
 | abkhasian.uno  | available | 78       | 1%     | 9      |           |         |         |
