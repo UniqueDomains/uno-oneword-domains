@@ -1,10 +1,10 @@
-# Available .UNO One-Word Domains (9,586)
+# Available .UNO One-Word Domains (9,587)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C587%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C586%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C587%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -14,7 +14,7 @@ Daily-updated dataset of available and resale .uno one-word domains from Unique 
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,587 rows · **Live catalog:** 9,586 domains
+**Public extract:** 9,587 rows · **Live catalog:** 9,587 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/uno`  
@@ -71,10 +71,10 @@ print(df.head())
 | tap.uno        | resell    | —         | —             | 78             | 42     | 3      | GoDaddy.com, LLC               |
 | power.uno      | premium   | $3,250    | $3,250        | 98             | 62     | 5      | namecheap                      |
 | curative.uno   | available | $19.99    | $27.99        | 92             | 27     | 8      | name.com                       |
-| purple.uno     | resell    | —         | —             | 62             | 41     | 6      | NameCheap, Inc.                |
+| forever.uno    | resell    | —         | —             | 98             | 40     | 7      | Key-Systems LLC                |
 | seventeen.uno  | premium   | $312.50   | $625          | 84             | 62     | 9      | name.com                       |
 | crisp.uno      | available | $19.99    | $27.99        | 68             | 27     | 5      | name.com                       |
-| forever.uno    | resell    | —         | —             | 98             | 40     | 7      | Key-Systems LLC                |
+| purple.uno     | resell    | —         | —             | 62             | 40     | 6      | NameCheap, Inc.                |
 | ace.uno        | premium   | $625      | $1,250        | 88             | 57     | 3      | name.com                       |
 | tonic.uno      | available | $19.99    | $27.99        | 114            | 25     | 5      | name.com                       |
 | europe.uno     | resell    | —         | —             | 68             | 37     | 6      | GoDaddy.com, LLC               |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,587-row public sample | 9,586 live domains                               |
+| 9,587-row public sample | 9,587 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
