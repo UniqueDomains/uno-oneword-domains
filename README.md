@@ -1,22 +1,22 @@
-# Available .UNO One-Word Domains (9,587)
+# Available .UNO One-Word Domains (11,991)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C587%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C587%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C991%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .uno one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .uno one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,991 domains** on the canonical page below.
 
-**Public extract:** 9,587 rows · **Live catalog:** 9,587 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,991 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/uno`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .UNO one-word domain c
 
 ### Files
 
-- `uno.csv` — public CSV extract (9,587 rows)
-- `uno.json` — public JSON extract (9,587 rows)
+- `uno.csv` — public CSV extract (1,000 rows)
+- `uno.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                      |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------ |
-| nationwide.uno | available | $19.99    | $27.99        | 76             | 66     | 10     | name.com                       |
-| delta.uno      | resell    | —         | —             | 74             | 45     | 5      | GoDaddy.com, LLC               |
-| converse.uno   | premium   | $312.50   | $625          | 64             | 73     | 8      | name.com                       |
-| goon.uno       | available | $19.99    | $27.99        | 80             | 35     | 5      | name.com                       |
-| tap.uno        | resell    | —         | —             | 78             | 42     | 3      | GoDaddy.com, LLC               |
-| power.uno      | premium   | $3,250    | $3,250        | 98             | 62     | 5      | namecheap                      |
-| curative.uno   | available | $19.99    | $27.99        | 92             | 27     | 8      | name.com                       |
-| forever.uno    | resell    | —         | —             | 98             | 40     | 7      | Key-Systems LLC                |
-| seventeen.uno  | premium   | $312.50   | $625          | 84             | 62     | 9      | name.com                       |
-| crisp.uno      | available | $19.99    | $27.99        | 68             | 27     | 5      | name.com                       |
-| purple.uno     | resell    | —         | —             | 62             | 40     | 6      | NameCheap, Inc.                |
-| ace.uno        | premium   | $625      | $1,250        | 88             | 57     | 3      | name.com                       |
-| tonic.uno      | available | $19.99    | $27.99        | 114            | 25     | 5      | name.com                       |
-| europe.uno     | resell    | —         | —             | 68             | 37     | 6      | GoDaddy.com, LLC               |
-| live.uno       | premium   | $3,125    | $6,250        | 108            | 56     | 4      | name.com                       |
-| stretch.uno    | available | $19.99    | $27.99        | 100            | 24     | 7      | name.com                       |
-| pussy.uno      | resell    | —         | —             | 50             | 37     | 5      | Soluciones Corporativas IP, SL |
-| good.uno       | premium   | $156.25   | $312.50       | 82             | 55     | 4      | name.com                       |
-| remedial.uno   | available | $19.99    | $27.99        | 86             | 24     | 8      | name.com                       |
-| america.uno    | resell    | —         | —             | 72             | 33     | 7      | GoDaddy.com, LLC               |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| Godzilla.uno     | available | $31.98    | —             | 80             | 63     | 8      | namecheap        |
+| pandora.uno      | resell    | —         | —             | 78             | 36     | 7      | GoDaddy.com, LLC |
+| hotels.uno       | premium   | $3,125    | —             | 64             | 82     | 6      | name.com         |
+| RedSox.uno       | available | $31.98    | —             | 72             | 60     | 7      | namecheap        |
+| travelers.uno    | premium   | $156.25   | —             | 58             | 61     | 9      | name.com         |
+| matcha.uno       | available | $31.98    | —             | 86             | 39     | 6      | namecheap        |
+| cars.uno         | premium   | $3,125    | —             | 66             | 47     | 4      | name.com         |
+| neuroscience.uno | available | $31.98    | —             | 80             | 37     | 12     | namecheap        |
+| skills.uno       | premium   | $625      | —             | 58             | 47     | 6      | name.com         |
+| howto.uno        | available | $31.98    | —             | 76             | 35     | 6      | namecheap        |
+| Ryan.uno         | premium   | $700      | $700          | 60             | 44     | 4      | namecheap        |
+| letsgo.uno       | available | $31.98    | —             | 57             | 31     | 7      | namecheap        |
+| Tools.uno        | premium   | $3,500    | $3,500        | 56             | 40     | 5      | namecheap        |
+| inhouse.uno      | available | $31.98    | —             | 70             | 23     | 8      | namecheap        |
+| WiFi.uno         | premium   | $1,400    | $1,400        | 83             | 37     | 5      | namecheap        |
+| stronger.uno     | available | $31.98    | —             | 67             | 19     | 8      | namecheap        |
+| tickets.uno      | premium   | $3,125    | —             | 64             | 34     | 7      | name.com         |
+| lostandfound.uno | available | $31.98    | —             | 64             | 19     | 14     | namecheap        |
+| etc.uno          | premium   | $156.25   | —             | 58             | 34     | 3      | name.com         |
+| gobeyond.uno     | available | $31.98    | —             | 76             | 18     | 9      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,587-row public sample | 9,587 live domains                               |
+| 1,000-row public sample | 11,991 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .UNO One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .UNO One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
