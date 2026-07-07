@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .uno one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,362 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,362 domains · **Median ask:** $255.56 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,362 domains · **Median ask:** $248.85 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/uno`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/uno`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .UNO one-word domain c
 
 ### Files
 
-- `uno.csv` — public CSV extract (1,000 rows)
-- `uno.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `uno.csv`, public CSV extract (1,000 rows)
+- `uno.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| Godzilla.uno     | available | $31.98    | —             | 80             | 63     | 8      | namecheap        |
-| pandora.uno      | resell    | —         | —             | 78             | 36     | 7      | GoDaddy.com, LLC |
-| hotels.uno       | premium   | $3,125    | —             | 64             | 82     | 6      | name.com         |
-| RedSox.uno       | available | $31.98    | —             | 72             | 60     | 7      | namecheap        |
-| travelers.uno    | premium   | $156.25   | —             | 58             | 61     | 9      | name.com         |
-| matcha.uno       | available | $31.98    | —             | 86             | 39     | 6      | namecheap        |
-| cars.uno         | premium   | $3,125    | —             | 66             | 47     | 4      | name.com         |
-| neuroscience.uno | available | $31.98    | —             | 80             | 37     | 12     | namecheap        |
-| skills.uno       | premium   | $625      | —             | 58             | 47     | 6      | name.com         |
-| howto.uno        | available | $31.98    | —             | 76             | 33     | 6      | namecheap        |
-| Ryan.uno         | premium   | $700      | $700          | 60             | 44     | 4      | namecheap        |
-| letsgo.uno       | available | $31.98    | —             | 57             | 31     | 7      | namecheap        |
-| Tools.uno        | premium   | $3,500    | $3,500        | 56             | 40     | 5      | namecheap        |
-| inhouse.uno      | available | $31.98    | —             | 70             | 23     | 8      | namecheap        |
-| WiFi.uno         | premium   | $1,400    | $1,400        | 83             | 37     | 5      | namecheap        |
-| smartest.uno     | available | $3.99     | $27.99        | 64             | 20     | 8      | namesilo         |
-| tickets.uno      | premium   | $3,125    | —             | 64             | 34     | 7      | name.com         |
-| stronger.uno     | available | $31.98    | —             | 67             | 19     | 8      | namecheap        |
-| etc.uno          | premium   | $156.25   | —             | 58             | 34     | 3      | name.com         |
-| lostandfound.uno | available | $31.98    | —             | 64             | 19     | 14     | namecheap        |
+| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| half.uno | premium   | $156.25   | —             | high           | low    | 4      | name.com         |
+| ahuh.uno | available | $3.99     | $27.99        | high           | low    | 4      | namesilo         |
+| ding.uno | resell    | —         | —             | medium         | low    | 4      | GoDaddy.com, LLC |
+| ana.uno  | premium   | $156.25   | —             | high           | low    | 3      | name.com         |
+| brow.uno | available | $31.98    | —             | medium         | low    | 4      | namecheap        |
+| bow.uno  | premium   | $156.25   | —             | high           | low    | 3      | name.com         |
+| cock.uno | available | $3.99     | $27.99        | medium         | low    | 4      | namesilo         |
+| cue.uno  | premium   | $312.50   | —             | medium         | low    | 3      | name.com         |
+| flee.uno | available | $3.99     | $27.99        | medium         | low    | 4      | namesilo         |
+| dip.uno  | premium   | $156.25   | $312.50       | high           | low    | 3      | name.com         |
+| flew.uno | available | $3.99     | $27.99        | high           | low    | 4      | namesilo         |
+| DIY.uno  | premium   | $1,562.50 | —             | high           | low    | 3      | name.com         |
+| halt.uno | available | $19.99    | $27.99        | medium         | low    | 4      | name.com         |
+| dog.uno  | premium   | $1,562.50 | —             | high           | low    | 3      | name.com         |
+| thou.uno | available | $19.99    | $27.99        | medium         | low    | 4      | name.com         |
+| don.uno  | premium   | $156.25   | —             | high           | low    | 3      | name.com         |
+| took.uno | available | $3.99     | $27.99        | low            | low    | 4      | namesilo         |
+| eye.uno  | premium   | $625      | —             | medium         | low    | 3      | name.com         |
+| ttyl.uno | available | $3.99     | $27.99        | low            | low    | 4      | namesilo         |
+| far.uno  | premium   | $156.25   | —             | high           | low    | 3      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .uno domains. The words range from broad dictionary terms like while.uno and laugh.uno to more descriptive options like textile.uno and traveling.uno. For founders, the key question is whether the word is memorable enough to offset a less common extension. For investors, the test is stricter: the word must be strong enough to support resale interest despite narrower buyer familiarity. With a median ask of 255.56, pricing sits in an accessible range, so the real separator is word quality: clarity, commercial relevance, and how naturally the term pairs with .uno.
+This list covers 12,362 one-word .uno domain names, drawn from short, ownable words rather than long compound phrases. The median asking price across the set is about $249, giving a practical benchmark for comparing individual listings. Because .uno domains are compact and easy to pronounce, they suit founders looking for a clean, brandable name as well as anyone evaluating pricing patterns across a newer top-level domain. Use length, clarity, and asking price together when narrowing down which of these domains fits your budget and brand direction.
 
-- Prioritize words that stay clear on a non-mainstream TLD
-- Favor memorable terms like queen.uno or laugh.uno
-- Check if the word feels commercial, generic, and reusable
-- Use price discipline when weaker words ask near the median
+- 12,362 one-word .uno domain names in this list
+- Median asking price is about $249 per domain
+- Short, single-word names built for brandable startups
+- Compare price against length and renewal before buying
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .UNO One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .UNO One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
