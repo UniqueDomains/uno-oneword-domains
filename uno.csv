@@ -1,7 +1,6 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 24fbff91-56e7-47b7-99f8-4748e5aca006,waterflow.uno,available,31.98,,high,low,9,namecheap,,,
 60d0cf4d-afd1-4fa0-88b6-8d378b0fce26,onbase.uno,available,3.99,27.99,low,low,7,namesilo,,,15/09/2026 17:31
-e73a2d6f-044e-4499-b02b-d6c5554652dd,independent.uno,available,,,high,low,11,,,,
 0b198a8b-5468-4fc9-a91a-6240d86c1550,quickness.uno,available,3.99,27.99,high,low,9,namesilo,,,
 28882959-5d65-4c3c-bb40-e77e699798c6,airtoair.uno,available,4.98,31.98,low,low,10,namecheap,,,
 c2cadb57-1259-47ab-ad5f-99e2270145be,aramean.uno,available,3.99,27.99,low,low,7,namesilo,,,06/08/2026 12:02
@@ -999,3 +998,4 @@ d075894d-81ba-469f-9ceb-b2df75eee849,sheer.uno,premium,156.25,,high,low,5,name.c
 39ca74d7-b67a-4623-b6f1-6e0be998e429,clv.uno,premium,156.25,312.5,low,low,3,name.com,,,
 7171e21f-69ba-4ed8-81f9-3a1de082f634,gorgeous.uno,premium,156.25,,high,low,8,name.com,,,
 212406ec-5698-4a99-a46b-bb9c51b98a85,generalpublic.uno,available,3.99,27.99,high,low,14,namesilo,,,
+ccd4fddf-25c8-4e7b-84d9-21b31bba3ca8,determined.uno,available,,,high,low,10,,,,
